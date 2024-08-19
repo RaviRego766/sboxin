@@ -1,0 +1,7 @@
+name: Qutrauim
+description: "A like material. Seemingly hardened sand or stone. Used in basic building."
+hardness: 1
+cost: 0.5
+color: 85ff00
+research: kinasuim
+hiddenOnPlanets: [serpulo, erekir]
