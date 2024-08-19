@@ -1,0 +1,7 @@
+name: Quteacytcluim
+description: "A rock-like material. Seemingly hardened sand or stone. Used in basic building."
+hardness: 1
+cost: 0.5
+color: 80ff00
+research: core-asilo
+hiddenOnPlanets: [serpulo, erekir]
