@@ -1,0 +1,21 @@
+type: GenericCrafter
+name: Qutrauim Crafter
+description: Condenses regular Sand back into Hardened Sand to be reused. Requires pressure.
+size: 2
+squareSprite: false
+craftTime: 90
+consumes: {
+  items: [
+    plastanium/5
+    kinasuim/2
+  ]}
+outputItem: qutrauim/4
+category: crafting
+researchCostMultiplier: 0.5
+research: core-asilo
+requirements: [
+  kinasuim/20
+]
+ambientSound: hum
+ambientSoundVolume: 0.05
+itemCapacity: 20
