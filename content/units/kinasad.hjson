@@ -12,7 +12,7 @@
       "x": 4,
       "y": 2,
       "top": false,
-      "shootSound": "",
+      "shootSound": "ha",
       "bullet": {
         "type": "MissileBulletType",
         "speed": 2.5,
