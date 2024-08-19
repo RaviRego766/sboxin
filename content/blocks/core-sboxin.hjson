@@ -8,7 +8,7 @@ isFirstTier: true
 size: 4
 squareSprite: false
 alwaysUnlocked: true
-unitType: asilo
+unitType: sboxin
 health: 1450
 itemCapacity: 5000
 unitCapModifier: 8
