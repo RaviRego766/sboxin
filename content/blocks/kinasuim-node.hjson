@@ -2,7 +2,7 @@
   "type": "PowerNode",
   "name": "Kinasuim Node",
   "description": "A power node reinforced using titanium. Is a lot more durable than a regular beam node while also maintaining slightly more range.",
-  "size": 1,
+  "size": 2,
   "health": 120,
   "laserRange": 8,
   "maxNodes": 10,
