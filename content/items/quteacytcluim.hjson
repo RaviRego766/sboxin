@@ -3,5 +3,5 @@ description: "A rock-like material. Seemingly hardened sand or stone. Used in ba
 hardness: 1
 cost: 0.5
 color: ff8000
-research: core-asilo
+research: qutrauim
 hiddenOnPlanets: [serpulo, erekir]
