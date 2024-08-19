@@ -11,7 +11,7 @@ consumes: {
 outputItem: quteacytcluim/1
 category: crafting
 researchCostMultiplier: 0.5
-research: core-asilo
+research: qutrauim-crafter
 requirements: [
   qutrauim/20
 ]
