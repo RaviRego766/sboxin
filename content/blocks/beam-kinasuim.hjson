@@ -1,0 +1,18 @@
+{
+  "type": "BeamNode",
+  "name": "Beam Kinasuim",
+  "description": "A more resistant version of the beam node with a slightly range",
+  "health": 108,
+  "size": 2,
+  "consumesPower": true,
+  "range": 10,
+  "outputsPower": true,
+  "requirements": [
+    "kinasuim/10"
+  ],
+  "consumes": {
+      "powerBuffered": 25000
+  },
+  "category": "power",
+  "research": "core-sboxin"
+        }
