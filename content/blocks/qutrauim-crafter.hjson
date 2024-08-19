@@ -12,7 +12,7 @@ consumes: {
 outputItem: qutrauim/4
 category: crafting
 researchCostMultiplier: 0.5
-research: core-asilo
+research: kinasuim-crafter
 requirements: [
   kinasuim/20
 ]
