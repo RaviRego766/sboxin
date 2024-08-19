@@ -1,0 +1,7 @@
+name: Kinasuim
+description: "A like material. Seemingly hardened sand or stone. Used in basic building."
+hardness: 1
+cost: 0.5
+color: 3dff3d
+research: core-sboxin
+hiddenOnPlanets: [serpulo, erekir]
