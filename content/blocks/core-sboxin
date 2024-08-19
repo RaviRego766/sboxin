@@ -1,0 +1,21 @@
+type: CoreBlock
+name: Core: Sboxin
+description: Core of the base. Armored and stores a medium amount of items.
+requirements: [
+  plastanium/160
+]
+isFirstTier: true
+size: 2
+squareSprite: false
+alwaysUnlocked: true
+unitType: asilo
+health: 1450
+itemCapacity: 5000
+unitCapModifier: 8
+category: effect
+research: {
+  planet: sboxin-p
+  root: true
+  name: Sboxin
+  requiresUnlock: false
+}
