@@ -1,0 +1,7 @@
+name: Abscyctoluim
+description: "A rock-like material. Seemingly hardened sand or stone. Used in basic building."
+hardness: 1
+cost: 0.5
+color: ffff00
+research: quteacytcluim
+hiddenOnPlanets: [serpulo, erekir]
