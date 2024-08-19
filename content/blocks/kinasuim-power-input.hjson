@@ -1,6 +1,6 @@
 {
   "type": "ConsumeGenerator",
-  "name": "Pyratite Generator",
+  "name": "Kinasuim Power Input",
   "description": "Uses the high flammability of pyratite to make a decent amount of power.",
   "size": 2,
   "hasPower": true,
