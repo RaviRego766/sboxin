@@ -1,0 +1,12 @@
+{
+  "localizedName": "Green Pasta",
+  "description": "The next step on your journey through Sboxin. This sector has coal and water. Use coal to create primitive power. Upgrade your resources.",
+  "difficulty": 2,
+  "captureWave": 20,
+  "planet": "sboxin-p",
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": false,
+  "addStartingItems": true,
+  "sector": 0,
+  "addStartingItems": true
+} 
