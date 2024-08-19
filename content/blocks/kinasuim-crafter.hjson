@@ -11,7 +11,7 @@ consumes: {
 outputItem: kinasuim/1
 category: crafting
 researchCostMultiplier: 0.5
-research: core-asilo
+research: core-sboxin
 requirements: [
   plastanium/20
 ]
