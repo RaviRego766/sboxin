@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: Kinasuim Crafter
+description: Condenses regular Sand back into Hardened Sand to be reused. Requires pressure.
+size: 2
+squareSprite: false
+craftTime: 90
+consumes: {
+  items: [
+    plastanium/4
+  ]}
+outputItem: kinasuim/1
+category: crafting
+researchCostMultiplier: 0.5
+research: core-asilo
+requirements: [
+  plastanium/20
+]
+ambientSound: hum
+ambientSoundVolume: 0.05
+itemCapacity: 20
