@@ -1,0 +1,22 @@
+type: GenericCrafter
+name: Abscyctoluim Crafter
+description: Condenses regular Sand back into Hardened Sand to be reused. Requires pressure.
+size: 4
+squareSprite: false
+craftTime: 90
+consumes: {
+  items: [
+    kinasuim/4
+    quteacytcluim/7
+  ]}
+outputItem: abscyctoluim/4
+category: crafting
+researchCostMultiplier: 0.5
+research: 
+requirements: [
+  qutrauim/20
+  plastanium/10
+]
+ambientSound: hum
+ambientSoundVolume: 0.05
+itemCapacity: 20
