@@ -26,11 +26,11 @@ type: BasicBulletType
       pierceCap: 1
       width: 9
       height: 13
-      frontColor: ffbe7f
-      backColor: d46f6b
+      frontColor: 80ff00
+      backColor: 00ff00
       trailChance: -1
       trailEffect: missileTrail
-      trailColor: d46f6b
+      trailColor: 00ff00
       shootEffect: shootSmall
       smokeEffect: shootSmallSmoke
 
@@ -59,11 +59,11 @@ type: BasicBulletType
       pierceCap: 1
       width: 9
       height: 13
-      frontColor: ffbe7f
-      backColor: d46f6b
+      frontColor: 80ff00
+      backColor: 00ff00
       trailChance: -1
       trailEffect: missileTrail
-      trailColor: d46f6b
+      trailColor: 00ff00
       shootEffect: shootSmall
       smokeEffect: shootSmallSmoke
     }
