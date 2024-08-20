@@ -4,7 +4,7 @@
   "description": "A stronger version of the Dagger unit typically found on Serpulo.",
   "speed": 0.5,
   "flying": false,
-  "health": 150,
+  "health": 450,
   "weapons": [
     {
       "name": "kinaosiad-weapon",
@@ -16,7 +16,7 @@
       "bullet": {
         "type": "MissileBulletType",
         "speed": 2.5,
-        "damage": 19,
+        "damage": 56,
         "lifetime": 90,
         "homingPower": 0.2,
         "weaveMag": 4,
