@@ -36,7 +36,6 @@ type: BasicBulletType
 
       }
     }
-  }
   {
     name: kinaeosiad-weapon
     y: 0
