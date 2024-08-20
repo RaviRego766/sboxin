@@ -1,0 +1,12 @@
+type: Wall
+name: Kinasuim Wall
+description: Protects structures from incoming damage.
+size: 1
+health: 380
+squareSprite: false
+requirements: [
+  kinasuim/6
+]
+research: core-sboxin
+category: defense
+researchCostMultiplier: 0.05
