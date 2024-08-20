@@ -3,7 +3,7 @@ name: Kinaeosiad
 description: Uses a gatling gun to pelt enemy targets. Equipped with an electric mine launcher.
 speed: 0.45
 flying: false
-health: 1090
+health: 1080
 armor: 9
 hitSize: 14
 outlineColor: 44413c
