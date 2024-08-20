@@ -9,8 +9,8 @@
     {
       "name": "kinaosiad-weapon",
       "reload": 9,
-      "x": 4,
-      "y": 4,
+      "x": 2,
+      "y": 2,
       "top": false,
       "shootSound": "ha",
       "bullet": {
