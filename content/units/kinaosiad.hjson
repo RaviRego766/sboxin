@@ -1,0 +1,57 @@
+{
+  "type": "mech",
+  "name": "Kinaosiad",
+  "description": "A stronger version of the Dagger unit typically found on Serpulo.",
+  "speed": 0.5,
+  "flying": false,
+  "health": 150,
+  "weapons": [
+    {
+      "name": "kinaosiad-weapon",
+      "reload": 9,
+      "x": 4,
+      "y": 2,
+      "top": false,
+      "shootSound": "ha",
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 2.5,
+        "damage": 19,
+        "lifetime": 90,
+        "homingPower": 0.2,
+        "weaveMag": 4,
+        "weaveScale": 4,
+        "shootEffect": "shootSmall",
+        "frontColor": "000000",
+        "hitSound": "none",
+        "width": 7,
+        "height": 9,
+        "lightColor": "00ff00",
+        "trailColor": "80ff00",
+        "backColor": "00ff00",
+        "lightRadius": 40,
+        "lightOpacity": 0.7,
+        "trailWidth": 2.2,
+        "trailLength": 18,
+        "trailChance": -1,
+        "despawnEffect": "none",
+        "despawnHit": true,
+        "hitEffect": {
+          "type": "ExplosionEffect",
+          "lifetime": 20,
+          "waveStroke": 1.2,
+          "waveColor": "00ff00",
+          "sparkColor": "00ff00",
+          "waveRad": 12,
+          "smokeSize": 0,
+          "smokeSizeBase": 0,
+          "sparks": 8,
+          "sparkRad": 35,
+          "sparkLen": 3,
+          "sparkStroke": 1.2
+        }
+      }
+    }
+  ]
+"research": "kinaosiad-factory"
+  }
