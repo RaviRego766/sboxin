@@ -1,5 +1,5 @@
 type: mech
-name: Cleaver
+name: Kinaeosiad
 description: Uses a gatling gun to pelt enemy targets. Equipped with an electric mine launcher.
 speed: 0.45
 flying: false
